@@ -3,7 +3,7 @@
   Panorama Street - Pump.fun Bundler
 </h1>
 
-<h4 align="center">Pump.fun Bundler • Pump.fun Volume Bot • Pump.fun Bump Bot • Pump.fun Sniper Bot • Pump.fun Bundler • Pump.fun Organic Bundler • Pump.fun Comment Bot</h4>
+<h4 align="center">Panorama Street - Pump.fun Bundler is a robust Pump.fun bundler tool that can bundle up to 28 wallets, bypassing Photon & BullX flags. The bundler comes equipped with complex sell strategies, seamlessly integrated with Raydium.</h4>
 
 <div align="center">
   <a href="https://discord.gg/h5C4eKgvGm">
