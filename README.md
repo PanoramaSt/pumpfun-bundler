@@ -3,7 +3,7 @@
   Panorama Street - Pump.fun Bundler
 </h1>
 
-<h4 align="center">Panorama Street - Pump.fun Bundler is a All-In-One Pump.fun bundler tool that can bundle up to 28 wallets, undetected on Photon & BullX. The bundler comes equipped with built-in Comment Bot, Bump Bot & Volume Bot that brings your launch out of trenches.</h4>
+<h4 align="center">Panorama Street - Pump.fun Bundler is an All-In-One Pump.fun bundler tool that can bundle up to 28 wallets, undetected on Photon & BullX. The bundler comes equipped with built-in Comment Bot, Bump Bot & Volume Bot that brings your launch out of trenches.</h4>
 
 <div align="center">
   <a href="https://discord.gg/h5C4eKgvGm">
