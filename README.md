@@ -3,7 +3,7 @@
   Panorama Street - Pump.fun Bundler
 </h1>
 
-<h4 align="center">Panorama Street - Pump.fun Bundler is a robust Pump.fun bundler tool that can bundle up to 28 wallets, bypassing Photon & BullX flags. The bundler comes equipped with complex sell strategies, seamlessly integrated with Raydium.</h4>
+<h4 align="center">Panorama Street - Pump.fun Bundler is a All-In-One Pump.fun bundler tool that can bundle up to 28 wallets, undetected on Photon & BullX. The bundler comes equipped with built-in Comment Bot, Bump Bot & Volume Bot that brings your launch out of trenches.</h4>
 
 <div align="center">
   <a href="https://discord.gg/h5C4eKgvGm">
@@ -35,13 +35,11 @@
 ## Key Features
 - 🫧 Transparent tax structure & no hidden fees
 - 👵🏻 Seamless UIUX - even your grandma can operate it
-- 📦 Token Bundler supports up to 24 wallets
-- 🍅 Organic Bundler supports up to 24 wallets buy
-- 🥷 Auto stealth mode to bypass Photon, Bullx & other platforms
+- 📦 Organic Bundler supports up to 28 wallets buy
+- 🥷 **UNDETECTED** on Photon, BullX & all other platforms
 - 🫨 Shake out snipers strategy
-- 💬 Automated comments on your own launches or any token
-- 🔥 Bump your token to trending page & gain visibility
-- 🌊 Generate organic-like volume for your token
+- 💬 Built-in Comment Bot to automate comments on your own launches
+- 🔥 Built-in Bump Bot to bump your token to trending page & gain visibility
 - 💵 Robust sell options - single / multiple wallets
 - 🔮 Supports Raydium integration
 
